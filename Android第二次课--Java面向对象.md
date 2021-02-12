@@ -99,8 +99,6 @@ hhh，讲完了类，现在开始讲对象吧。
 
 
 
-![img](file:///C:\Users\hp\Documents\Tencent Files\986619131\Image\C2C\Image1\53529ECF805CA69CC163E61FA88549DF.jpg)
-
 
 
 **定义：**就是表示一个个具体的东西。类是一个抽象的东西，而对象就是表示类的一个实体。
